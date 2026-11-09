@@ -45,4 +45,3 @@ Because this project is a continuous learning experience, several improvements a
 * **Administrative Authentication:** Implementing password-gated access control on the dashboard to restrict inventory management to authorized system administrators.
 * **Flexible Error Handling & Editing:** Refactoring the item-editing logic to allow safe modification/rerouting of item codes to accommodate user-entry errors and administrative changes rather than locking them permanently.
 * **Accessibility Enhancements:** Improving color contrast, screen-reader labeling, and overall UI accessibility standards.
-* 
